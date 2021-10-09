@@ -4,12 +4,50 @@
     padding: 0;
 }
 
-nav{
-    padding: 0 4rem;
+body{
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 .nav-link {
     text-transform: uppercase !important;
 }
+
+.nav-link:hover {
+    color: #3A0CA3 !important;
+}
+
+.blog-title {
+    color: #D05270;
+    font-weight: 700;
+}
+
+.social-media-button {
+   border: none;
+   width: 8rem;
+   height: 2.5rem;
+   text-transform: uppercase;
+   font-size: small;
+}
+
+#twitter-button {
+    background-color: #47ACDF;
+    color: white;
+}
+
+#linkedin-button {
+    background-color: #1275B1;
+    color: white;
+}
+
+#medium-button {
+    background-color: #000;
+    color: white;
+}
+
+.post-title {
+    font-weight: 800;
+    color: #3A0CA3;
+}
+
 
 
